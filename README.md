@@ -1,10 +1,20 @@
 
 
-Meu nome é Magno, e trabalho com desenvolvimento desde 2013.
-Sou Formado em ciência da computação desde dezembro de 2014 pela UNIVALE (Universidade Vale do Rio Doce). Gosto muito de aprender e desenvolver coisas novas.
-Fiquem à vontade de explorar meu github.
+💻 Back-end Developer | C# | ASP.NET Core | SQL Server | Software Architecture
 
-Entrem em contato comigo: magno_barboza@hotmail.com. LikedIn: https://www.linkedin.com/in/magno-bastos-barboza-16ab4b27/
+Developer with 12 years of experience, specialized in building robust and scalable solutions. I have expertise in C#, ASP.NET Core, and SQL Server, focusing on high-performance APIs, system integration, and optimizing mission-critical applications.
+
+Currently, at Rufus Technologies, I contribute to an insurance ticket e-commerce platform, applying best practices in architecture, design patterns, and DevOps (Docker, Kubernetes, CI/CD with Azure). While I have Full-Stack experience, my primary focus and passion lie in Back-end development, where I can work on performance, scalability, and complex technical challenges.
+
+📌 Key Skills:
+✅ Back-end: C#, ASP.NET Core, SQL Server, Dapper (also experienced with Node.js)
+✅ Front-end: JavaScript, Vue.js, HTML, CSS
+✅ Architecture: DDD, TDD, Design Patterns, Scalable APIs
+✅ DevOps & Cloud: Docker, Kubernetes, CI/CD, Azure DevOps
+
+🚀 I enjoy sharing knowledge, learning new technologies, and exchanging experiences on Back-end development and software best practices. Always open to new challenges and connections—let’s talk!
+
+📩 Connect with me!
 
 
 <!--
